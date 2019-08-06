@@ -1,0 +1,26 @@
+SPOOL log/createTable.log
+@Table/DG_ADAPTOR.sql
+@Table/DG_ADAPTOR_CONFIG.sql
+@Table/DG_ADAPTOR_FUNCTION.sql
+@Table/DG_COMPANY.sql
+@Table/DG_COMPANY_GROUP.sql
+@Table/DG_CONFIG.sql
+@Table/DG_DATA_SOURCE.sql
+@Table/DG_DATA_SOURCE_ATTR.sql
+@Table/DG_LOGS.sql
+@Table/DG_TIME_PERIOD.sql
+@Table/DG_USER.sql
+@Table/DG_USER_LOGIN.sql
+@Table/DG_USER_TIME.sql
+@Table/DG_USER_TIME_AUDIT.sql
+@Table/DG_USER_TIME_DELAY.sql
+@Table/DG_USER_TIME_DELAY_AUDIT.sql
+@Table/DG_USER_TIME_DETAIL.sql
+@Table/DG_USER_TIME_PERIOD.sql
+@Table/OAUTH_ACCESS_TOKEN.sql
+@Table/OAUTH_APPROVALS.sql
+@Table/OAUTH_CLIENT_DETAILS.sql
+@Table/OAUTH_CLIENT_TOKEN.sql
+@Table/OAUTH_CODE.sql
+@Table/OAUTH_REFRESH_TOKEN.sql
+SPOOL off
